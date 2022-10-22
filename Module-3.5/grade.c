@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main(){
-
-
+    //getting marks
     int marks;
     printf("Please Enter Your Mark Hare: ");
     scanf("%d", &marks);
